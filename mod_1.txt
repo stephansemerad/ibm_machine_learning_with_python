@@ -42,3 +42,5 @@ Supervised vs Unsupervised Algorithms
 -- 2 Types of Supervised Learning, Classification and Regression
 -- Unsupervised ML : Dimension reduction, Density Estimation, Market Basket Analysis, Clustering    
 
+
+* Supervised deals with Labelled data, while Unsupervised deal with unlabelled data. 

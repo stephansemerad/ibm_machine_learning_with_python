@@ -1,0 +1,44 @@
+Module 1: Introduction to Machine Learning
+
+# Definition of ML
+"computer the ability to learn without explicitly being programmed"
+
+# Regression / Estimation 
+- Predicting continuous values
+
+# Classification
+- Predicting the item class or category
+
+# Clustering
+- finding the structure of the data; summarization
+
+# Assoication
+- Associating frequent co-occurring items / events
+
+# Anomaly Detection
+- Discovering Abnormal and unusual cases
+
+# Sequence Mining
+- Predicting next events; click-steam (Markov Model, HMM)
+
+# Dimension Reduction
+- Reducing the size of data (PCAw)
+
+# Recommendation Systems. 
+- Recommending items
+
+# What is the difference between (AI , ML, and Deep Learning)
+- AI : AI tries to make computers intelligent in order to mimic cognitive functions of humans 
+- Machine Learnin : Statistical part (Learning from previous data and from that data make a decision )
+- Deep Learning: Computers actually learn and make decisions on their own.
+
+
+Supervised vs Unsupervised Algorithms
+- Supervised (Observe, and direct the execution of as task, project and activity)
+
+-- Atributes, Features, Observation. 
+
+-- AtributesNumeric, or Categorical
+-- 2 Types of Supervised Learning, Classification and Regression
+-- Unsupervised ML : Dimension reduction, Density Estimation, Market Basket Analysis, Clustering    
+
